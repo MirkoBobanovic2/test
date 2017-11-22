@@ -15,7 +15,7 @@ namespace test
             Console.WriteLine("Porukkaaa");
             Console.WriteLine("message");
             Console.WriteLine("Werbung");
-            int xy;
+            int xyu;
 
             
 
