@@ -12,6 +12,8 @@ namespace test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Porukkaaa");
+            
            string unos = Console.ReadLine();
             try
             {
@@ -29,5 +31,6 @@ namespace test
         {
             return Math.Sqrt(broj);
         }
+        
     }
 }
