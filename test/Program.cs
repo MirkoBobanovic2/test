@@ -13,6 +13,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("Porukkaaa");
+            Console.WriteLine("message");
             
            string unos = Console.ReadLine();
             try
