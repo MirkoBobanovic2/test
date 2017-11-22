@@ -17,6 +17,10 @@ namespace test
             Console.WriteLine("Werbung");
 
             
+
+            Console.WriteLine("upisi neki broj za koji zelis kvadratni korijen:");
+
+            
            string unos = Console.ReadLine();
             try
             {
