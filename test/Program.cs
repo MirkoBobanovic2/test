@@ -12,8 +12,12 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello world");
-            Console.Read();
+            
+        }
+
+        public static double KvadratniKoijen(double broj)
+        {
+            return Math.Sqrt(broj);
         }
     }
 }
