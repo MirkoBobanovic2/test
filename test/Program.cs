@@ -12,8 +12,8 @@ namespace test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Filip");
-            Console.Read();
+            Console.WriteLine("Porukkaaa");
+            Console.ReadKey();
         }
     }
 }
