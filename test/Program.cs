@@ -12,7 +12,16 @@ namespace test
     {
         static void Main(string[] args)
         {
-            
+           string unos = Console.ReadLine();
+            try
+            {
+                double broj = double.Parse(unos);
+                Console.WriteLine(KvadratniKoijen(broj));
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e);
+            }
         }
 
         public static double KvadratniKoijen(double broj)
