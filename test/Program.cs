@@ -25,7 +25,9 @@ namespace test
             try
             {
                 double broj = double.Parse(unos);
-                Console.WriteLine(KvadratniKoijen(broj));
+                double rezultat = KvadratniKoijen(broj);
+                Console.WriteLine($"Kvadrani Korijen Od {broj} je {rezultat}");
+               
             }
             catch(Exception e)
             {
