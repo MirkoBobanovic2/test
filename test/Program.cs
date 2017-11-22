@@ -22,6 +22,7 @@ namespace test
             {
                 Console.WriteLine(e);
             }
+            Console.ReadKey();
         }
 
         public static double KvadratniKoijen(double broj)
