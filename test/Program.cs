@@ -14,6 +14,8 @@ namespace test
         {
             Console.WriteLine("Porukkaaa");
             Console.WriteLine("message");
+            Console.WriteLine("Werbung");
+
             
            string unos = Console.ReadLine();
             try
